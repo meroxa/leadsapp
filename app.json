@@ -1,0 +1,8 @@
+{
+    "name": "leadsapp",
+    "language": "javascript",
+    "environment": "common",
+    "resources": {
+        "postgres": "fixtures/demo-cdc.json"
+    }
+}
